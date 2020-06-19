@@ -1,12 +1,19 @@
-# Programs To Download:
+# البرامج التي ينصح بتحميلها
 
 ### Python 3
-Download the latest version of Python. Don't download Python 2.
-It is Free
-[Download From Here](https://www.python.org/)
+قم بتحميل أحدث نسخة من بايقون
+
+يجب تحميل نسخة الاصدار الثالث وأكثر
+
+هذا البرنامج مجاني
+
+[حمل من هنا](https://www.python.org/)
 
 ### Notepad++
-Download the latest version of Notepad++
-It is Free.
-[Download From Here](https://notepad-plus-plus.org/)
+قم بتحميل أحدث نسخة من المفكرة المتطورة
+
+هذا البرنامج مجاني
+
+
+[حمل من هنا](https://notepad-plus-plus.org/)
 
