@@ -1,7 +1,6 @@
 # UoPeople-CS1101
-Codes about CS 1101 - Programming Fundamentals at UoPeople. ( NO QUIZ ANSWERS )
+الأكواد والشروحات والملاحظات المتعلقة بمادة أساسيات البرمجة في جامعة الشعب الأمريكية
 
-Do Not: --> NOT!!
-- Share the quiz's answers.
-- Share the assignment's answers.
-- Share homework.
+
+
+### لا يتم أبدا مشاركة أجوبة الوظائف والاختبارات
